@@ -1,5 +1,11 @@
-# 💫 About Me:
-* 🔭 I'm currently working on **data analytics projects using Power BI, SQL, and Python**<br><br>* 👯 I'm looking to collaborate on **data analytics, data visualization, and open-source data projects**<br><br>* 🤝 I'm looking for help with **improving data modeling and advanced SQL optimization**<br><br>* 🌱 I'm currently learning **advanced SQL, Python for data analysis, and data engineering fundamentals**<br><br>* 💬 Ask me about **Power BI dashboards, SQL queries, and data analysis projects**<br><br>* ⚡ Fun fact: **I enjoy turning raw data into meaningful insights through dashboards and visualizations**<br>
+# 💫 About Me
+
+🔭 I'm currently working on **Data Analytics and Data Science projects using Python, SQL, Power BI, and Machine Learning**
+👯 I'm looking to collaborate on **data science, machine learning, data analytics, and open-source data projects**
+🤝 I'm looking for help with **advanced machine learning concepts, feature engineering, and improving model performance**
+🌱 I'm currently learning **Machine Learning, Advanced SQL, Data Visualization, and Data Engineering fundamentals**
+💬 Ask me about **Python for data analysis, Power BI dashboards, SQL queries, data visualization, and machine learning basics**
+⚡ Fun fact: **I enjoy transforming raw data into meaningful insights through analytics, machine learning models, and interactive dashboards**
 
 
 ## 🌐 Socials:
@@ -12,11 +18,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=surajyadav011&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajyadav011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=surajyadav011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=surajyadav011&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=surajyadav011&icon=0&color=0)](https://visitcount.itsvg.in)
