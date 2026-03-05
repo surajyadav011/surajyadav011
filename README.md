@@ -1,10 +1,15 @@
 # 💫 About Me
 
 🔭 I'm currently working on **Data Analytics and Data Science projects using Python, SQL, Power BI, and Machine Learning**
+
 👯 I'm looking to collaborate on **data science, machine learning, data analytics, and open-source data projects**
+
 🤝 I'm looking for help with **advanced machine learning concepts, feature engineering, and improving model performance**
+
 🌱 I'm currently learning **Machine Learning, Advanced SQL, Data Visualization, and Data Engineering fundamentals**
+
 💬 Ask me about **Python for data analysis, Power BI dashboards, SQL queries, data visualization, and machine learning basics**
+
 ⚡ Fun fact: **I enjoy transforming raw data into meaningful insights through analytics, machine learning models, and interactive dashboards**
 
 
