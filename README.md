@@ -58,18 +58,24 @@
 
 ---
 
-# 📬 Contact Me
+## 📬 Contact Me
 
 <p align="center">
 
 <a href="mailto:surajyadav011011@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-  
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
