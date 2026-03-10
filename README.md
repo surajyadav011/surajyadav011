@@ -58,8 +58,11 @@
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajyadav011011@gmail.com) 
----
+
+<c>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajyadav011011@gmail.com)
+</c>
+
 
 # 🤝 Collaboration
 
