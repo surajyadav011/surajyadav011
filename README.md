@@ -8,7 +8,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 ### 👋 Hello, I'm Suraj
 
@@ -50,6 +50,14 @@
 
 ---
 
+<!-- Red Progress Line Divider -->
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656984-d9c4c2c1-b8b7-4b91-9f47-8d69e63f7d52.gif" width="100%">
+</p>
+
+---
+
 # 📬 Contact Me
 
 <p align="center">
@@ -58,7 +66,7 @@
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
