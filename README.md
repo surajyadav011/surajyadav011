@@ -1,31 +1,39 @@
-# 💫 About Me
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=326581410488926354" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=rainbow&height=200&section=header&text=Hello%20World!%20I'm%20Suraj%20Yadav&fontSize=40&fontAlignY=35" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hello+World+👋;I'm+Suraj+Yadav;Data+Analyst+%7C+Data+Scientist;Python+SQL+PowerBI+Machine+Learning;Turning+Data+Into+Insights" />
+</p>
+## 👨‍💻 About Me
 
-🔭 I'm currently working on **Data Analytics and Data Science projects using Python, SQL, Power BI, and Machine Learning**
+Hello 👋 I'm **Suraj Yadav**
 
-👯 I'm looking to collaborate on **data science, machine learning, data analytics, and open-source data projects**
+🎓 B.Tech AIML Student  
+📊 Passionate about **Data Analytics, Machine Learning, and Data Science**  
 
-🤝 I'm looking for help with **advanced machine learning concepts, feature engineering, and improving model performance**
+I enjoy transforming **raw data into meaningful insights**, building **machine learning models**, and creating **interactive dashboards**.
 
-🌱 I'm currently learning **Machine Learning, Advanced SQL, Data Visualization, and Data Engineering fundamentals**
+⚡ Fun fact: I am **Tea ☕ Powered**
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+## 🔭 Currently Working On
 
-💬 Ask me about **Python for data analysis, Power BI dashboards, SQL queries, data visualization, and machine learning basics**
+• Data Analytics Projects using Python  
+• Machine Learning Models  
+• SQL for Data Analysis  
+• Power BI Dashboards  
+## 🌱 Currently Learning
 
-⚡ Fun fact: **I enjoy transforming raw data into meaningful insights through analytics, machine learning models, and interactive dashboards**
+• Advanced Machine Learning  
+• Feature Engineering  
+• Data Engineering Basics  
+• Model Optimization
+## 🤝 Looking to Collaborate On
 
+• Data Science Projects  
+• Machine Learning Research  
+• Open Source Data Projects  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=surajyadav011&show_icons=true&theme=tokyonight)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.u.r.a.j.1.2.3.4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Suraj‎ ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@suraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajyadav011011@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=surajyadav011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=surajyadav011&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajyadav011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=surajyadav011&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajyadav011&layout=compact&theme=tokyonight)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
