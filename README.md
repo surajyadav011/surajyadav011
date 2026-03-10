@@ -57,21 +57,24 @@
 </p>
 
 ---
-
 ## 📬 Contact
 
 <p align="center">
 
 <a href="mailto:surajyadav011011@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" width="40" style="margin:15px;">
+<img src="https://cdn.simpleicons.org/gmail" width="40">
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin" width="40" style="margin:15px;">
+<img src="https://cdn.simpleicons.org/linkedin" width="40">
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img src="https://cdn.simpleicons.org/github" width="40" style="margin:15px;">
+<img src="https://cdn.simpleicons.org/github" width="40">
 </a>
 
 </p>
