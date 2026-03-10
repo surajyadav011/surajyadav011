@@ -1,27 +1,29 @@
 <!-- Animated Welcome Text -->
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=twinkling"/>
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+🚀"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=twinkling"/>
 </p>
 
----
-
 # 👨‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270"/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img align="right" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="290"/>
 
 ### 👋 Hello, I'm Suraj
 
 🎓 **B.Tech AIML Student**
 
-📊 Passionate about **Data Analytics, Machine Learning & Data Science**
+**📊 Passionate about Machine Learning & ‎ Data Science**
 
 ⚡ **Turning data into insights & smart ML solutions**
 
 ☕ **Tea Powered Developer**
 
 ---
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -48,10 +50,10 @@
 
 </p>
 
+----
+
 ## 🌐 Socials
-
 <p>
-
 <a href="https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -62,25 +64,19 @@
 
 </p> 
 
----
-# 🤝 Collaboration
+## 🤝 Open to Collaboration
 
-• Data Science Projects
-• Machine Learning Research
-• Open Source Analytics Projects
+💡 Building **Data Science Projects**  
+🧠 Exploring **Machine Learning Research**  
+📊 Contributing to **Open Source Analytics**
 
 ---
 
 <!-- Animated Footer -->
-
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+watching+🚀;See+you+again+soon+✨"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+🚀;"/>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff69b4,100:ffc0cb&height=2"/>
 </p>
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffc0cb&height=120&section=footer&animation=twinkling"/>
-
-</p>
