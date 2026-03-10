@@ -1,4 +1,4 @@
-<!-- Animated Header Banner -->
+<!-- Header Banner -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00ffff&height=200&section=header&text=Welcome%20to%20My%20GitHub%20👋&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 
@@ -52,18 +52,52 @@
 
 ---
 
-## 📊 GitHub Activity
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sql,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
+# 📊 GitHub Stats
+
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting+🚀"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Suraj&show_icons=true&theme=radical&hide_border=true"/>
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Suraj&label=Profile%20Views&color=ff69b4&style=flat"/>
+</p>
+
+---
+
+<!-- Footer Typing -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting+🚀"/>
+</p>
+
+<!-- Footer Banner -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffc0cb&height=120&section=footer&animation=twinkling"/>
