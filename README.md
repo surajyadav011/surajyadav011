@@ -1,14 +1,15 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=surajyadav011&show_icons=true&theme=tokyonight)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00ffff&height=80&section=footer"/>
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hello+World+👋;I'm+Suraj; Data+Analyst+%7C+Data+Scientist;Python+SQL+PowerBI+Machine+Learning;Turning+Data+Into+Insights" />
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hello+World+👋;I'm+Suraj;Data+Analyst+%7C+Data+Scientist;Python+SQL+PowerBI+Machine+Learning;Turning+Data+Into+Insights" />
 </p>
 
 
 <h1 align="center">
 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Suraj
 </h1>
-**About Me **👨‍💻 *
+**About Me **👨‍💻
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 🎓 **B.Tech AIML Student**
@@ -39,5 +40,4 @@ I enjoy transforming **raw data into meaningful insights**, building **machine l
 • Data Science Projects  
 • Machine Learning Research  
 • Open Source Data Projects  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=🦇&fontSize=80&fontAlignY=50" />
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffc0cb&height=150&section=footer&text=Thanks%20for%20Visiting%20🚀&fontSize=30&fontAlignY=60&animation=fadeIn" />
