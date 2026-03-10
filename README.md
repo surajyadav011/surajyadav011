@@ -78,4 +78,8 @@
 
 <!-- Animated Footer -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffc0cb&height=140&section=footer&text=Thanks%20for%20Watching%20🚀&fontSize=30&fontAlignY=60&animation=twinkling"/>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00ffff&height=140&section=footer&text=Thanks%20for%20Watching%20🚀&fontSize=32&fontAlignY=60&animation=twinkling"/>
+
+</p>
