@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+🚀"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/216656984-d9c4c2c1-b8b7-4b91-9f47-8d69e63f7d52.gif" width="100%">
+
 <!-- Header Banner -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00ffff&height=180&section=header"/>
@@ -48,6 +50,8 @@
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
 </p>
 
 ---
@@ -56,7 +60,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=suraj&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -66,7 +70,7 @@
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:surajyadav011011@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
@@ -84,6 +88,14 @@
 
 ---
 
-<!-- Footer Banner With Message -->
+## 📅 Daily Contributions
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffc0cb&height=140&section=footer&text=Thanks%20for%20Watching%20🚀&fontSize=30&fontAlignY=60&animation=twinkling"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<!-- Footer Banner With Message -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffc0cb&height=140&section=footer&text=Welcome%20to%20My%20GitHub%20🚀&fontSize=30&fontAlignY=60&animation=twinkling"/>
+
