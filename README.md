@@ -57,28 +57,8 @@
 </p>
 
 ---
-## 📬 Contact
-
-<p align="center">
-
-<a href="mailto:surajyadav011011@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" width="40">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin" width="40">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img src="https://cdn.simpleicons.org/github" width="40">
-</a>
-
-</p>
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajyadav011011@gmail.com) 
 ---
 
 # 🤝 Collaboration
