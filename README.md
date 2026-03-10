@@ -58,11 +58,11 @@
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/" target="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+&nbsp;&nbsp;
 
-
+<a href="https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 
 </p>
 
@@ -80,6 +80,12 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:00ffff&height=140&section=footer&text=Thanks%20for%20Watching%20🚀&fontSize=32&fontAlignY=60&animation=twinkling"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+watching+🚀;See+you+again+soon+✨"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffc0cb&height=120&section=footer&animation=twinkling"/>
 
 </p>
