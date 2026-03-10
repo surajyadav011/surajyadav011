@@ -58,11 +58,11 @@
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-  
+<a href="https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/" target="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<a href="https://www.linkedin.com/in/suraj-%E2%80%8E-a332332b5/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
+
 
 </p>
 
@@ -78,10 +78,4 @@
 
 <!-- Animated Footer -->
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+🚀;See+you+again+soon+✨"/>
-
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656984-d9c4c2c1-b8b7-4b91-9f47-8d69e63f7d52.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffc0cb&height=140&section=footer&text=Thanks%20for%20Watching%20🚀&fontSize=30&fontAlignY=60&animation=twinkling"/>
