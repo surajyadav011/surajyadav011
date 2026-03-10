@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+🚀"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656984-d9c4c2c1-b8b7-4b91-9f47-8d69e63f7d52.gif" width="100%">
 
 <!-- Header Banner -->
 
