@@ -9,9 +9,11 @@
 </p>
 
 # 👨‍💻 About Me
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270"/>
 
 <img align="right" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="290"/>
+
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270"/>
+
 
 ### 👋 Hello, I'm Suraj
 
