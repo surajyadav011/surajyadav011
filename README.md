@@ -15,17 +15,36 @@
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270"/>
 
 
-### 👋 Hello, I'm Suraj
+### 👋 Hello, I'm Suraj  
 
-🎓 **B.Tech AIML Student**
+🎓 **B.Tech Student (AI & Machine Learning)**  
+📊 **Aspiring Data Scientist | Machine Learning Enthusiast**  
 
-**📊 Passionate about Machine Learning & ‎ Data Science**
-
-⚡ **Turning data into insights & smart ML solutions**
-
-☕ **Tea Powered Developer**
+I am passionate about transforming raw data into meaningful insights and building intelligent solutions using machine learning. I have hands-on experience in data analysis, model building, and visualization, helping solve real-world problems efficiently.  
 
 ---
+
+### 🧠 Core Skills  
+
+- Machine Learning & Data Science  
+- Python (NumPy, Pandas, Scikit-learn)  
+- SQL & Data Handling  
+- Excel (Advanced) & Tableau (Data Visualization)  
+
+---
+
+### ⚡ What I Do  
+
+- Build and train machine learning models  
+- Analyze datasets to extract actionable insights  
+- Create dashboards and visualizations  
+- Continuously learn and apply modern data techniques  
+
+---
+
+### ☕ Fun Fact  
+
+Tea-powered developer who loves solving complex problems with simple logic.
 ## 🛠️ Tech Stack
 
 <p align="center">
