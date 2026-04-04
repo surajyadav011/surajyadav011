@@ -17,9 +17,9 @@
 
 ### 👋 Hello, I'm Suraj  
 
-🎓 **B.Tech Student (AI & Machine Learning)**  
+ **B.Tech Student (AI & Machine Learning)**  
 
-📊 **Aspiring Data Scientist | Machine Learning Enthusiast**  
+ **Aspiring Data Scientist | Machine Learning Enthusiast**  
 
 I am passionate about transforming raw data into meaningful insights and building intelligent solutions using machine learning. I have hands-on experience in data analysis, model building, and visualization, helping solve real-world problems efficiently.  
 
