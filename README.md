@@ -13,7 +13,7 @@
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270"/>
 
-### 👋 Hello, I'm Suraj  
+### 👋 Hello, I'm Suraj
 
  **B.Tech Student (AI & Machine Learning)**  
 
