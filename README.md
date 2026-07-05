@@ -87,9 +87,9 @@ Tea-powered developer who loves solving complex problems with simple logic.
 
 ## 🤝 Open to Collaboration  
 
-🚀 Actively contributing to **data-driven projects** with a focus on Machine Learning and Analytics  
-🧠 Interested in collaborating on **real-world problem-solving, predictive modeling, and research-oriented work**  
-📊 Open to working on **data analysis, dashboard development, and scalable data solutions**  
+ Actively contributing to **data-driven projects** with a focus on Machine Learning and Analytics  
+ Interested in collaborating on **real-world problem-solving, predictive modeling, and research-oriented work**  
+ Open to working on **data analysis, dashboard development, and scalable data solutions**  
 
 <!-- Animated Footer -->
 <p align="center">
