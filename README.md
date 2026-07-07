@@ -23,7 +23,7 @@ I am passionate about transforming raw data into meaningful insights and buildin
 
 ---
 
-### 🧠 Core Skills  
+### 🧠 Core Skills
 
 - Machine Learning & Data Science  
 - Python (NumPy, Pandas, Scikit-learn)  
