@@ -8,9 +8,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=twinkling"/>
 </p>
 
-# 👨‍💻 About Me
-
-
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270"/>
 
 ### 👋 Hello, I'm Suraj
