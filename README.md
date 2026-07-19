@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=twinkling"/>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+"/>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=twinkling"/>
 </p>
@@ -19,7 +19,7 @@ I am passionate about transforming raw data into meaningful insights and buildin
 
 ---
 
-### 🧠 Core Skills
+###  Core Skills
 
 - Machine Learning & Data Science  
 - Python (NumPy, Pandas, Scikit-learn)  
@@ -28,7 +28,7 @@ I am passionate about transforming raw data into meaningful insights and buildin
 
 ---
 
-### ⚡ What I Do  
+###  What I Do  
 
 - Build and train machine learning models  
 - Analyze datasets to extract actionable insights  
@@ -37,11 +37,11 @@ I am passionate about transforming raw data into meaningful insights and buildin
 
 ---
 
-### ☕ Fun Fact  
+###  Fun Fact  
 
-Tea-powered developer who loves solving complex problems with simple logic.
+90% simple logic, 10% fighting with environment configurations, 0% patience for missing commas
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 
