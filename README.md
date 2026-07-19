@@ -10,7 +10,7 @@
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270"/>
 
-### 👋 Hello, I'm Suraj
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=100&size=24&duration=1500&pause=986&color=90E0F7&width=435&lines=Hi%2C+I'm+Suraj+%F0%9F%91%8B)](https://git.io/typing-svg)
 
  **B.Tech Student (AI & Machine Learning)**  
 
